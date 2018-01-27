@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: #efeee7;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
     color: #333333;
     line-height: 150%;
 
@@ -34,7 +35,7 @@ h2 {
 
 .container {
 
-    width: 1024;
+    width: 1024px;
     margin: 0 auto;
 
 }
